@@ -14,6 +14,6 @@
     <p>Your Career Aspirations</p>
     <p>and Your Favorite Foods</p>
     <!-- Correct the link to the Homepage and Customize the Link Text -->
-    <a href="">[Link](https://darrihoudini.github.io/-Coding-Challenge/)</a>
+    <a href="https://darrihoudini.github.io/-Coding-Challenge/">Link</a>
 </body>
 </html>
